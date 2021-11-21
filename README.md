@@ -6,7 +6,7 @@ This repository contains the HTML and CSS source code for the Horiseon web page.
 
 ## Horiseon
 
-[Horiseon Landing Page Screenshot]("./assets/images/Screenshot 2021-11-21 100150.png")
+![Horiseon Landing Page Screenshot](landing-page.png)
 
 Horiseon provides services that help your business build and manage its online presence. By finding the right platforms for your brand and increasing its search engine visibility across all devices, we can help your business generate leads and manage costs.
 
