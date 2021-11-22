@@ -12,6 +12,10 @@ Horiseon provides services that help your business build and manage its online p
 
 The landing page for Horiseon was created to provide a clean and effective user experience. By clicking on the links in the navbar, potential clients can quickly navigate the page to learn more about the services that we offer. On the right-hand side of the page, you'll find several of the numerous benefits our services provide.
 
+## Feedback
+
+Leave comments/suggestions on the slack channel! 
+
 ## License
 
 Copyright (c) Horiseon, Inc. All rights reserved.
