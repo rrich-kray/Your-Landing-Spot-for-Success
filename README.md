@@ -22,6 +22,10 @@ Each element references the ID of the corresponding item in the "main" section o
 
 ![Horiseon services offered](Develop/assets/images/screenshot3.png)
 
+And learn about the benefits we provide in the following sections;
+
+![Horiseon services offered](Develop/assets/images/screenshot4.png)
+
 ## Feedback
 
 Leave comments/suggestions on the slack channel! 
