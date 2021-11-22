@@ -115,21 +115,21 @@ p {
     background-color: #2589bd;
 }
 
-/* consollidated .benefits-lead, .benefits-brand, .benefits-cost into .benefits section css selector*/
+/* consolidated .benefits-lead, .benefits-brand, .benefits-cost into .benefits section css selector*/
 
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* consollidated .benefits-lead h3, .benefits-brand h3, .benefits-cost h3 into .benefits section h3 css selector*/
+/* consolidated .benefits-lead h3, .benefits-brand h3, .benefits-cost h3 into .benefits section h3 css selector*/
 
 .benefits section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* consollidated .benefits-lead img, .benefits-brand img, .benefits-cost img into .benefits section img css selector*/
+/* consolidated .benefits-lead img, .benefits-brand img, .benefits-cost img into .benefits section img css selector*/
 
 .benefits section img {
     display: block;
