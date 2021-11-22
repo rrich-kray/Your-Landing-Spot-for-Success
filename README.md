@@ -18,6 +18,8 @@ The website provides three links within the navbar, as shown below:
 
 ![Horiseon navigation links](./assets/images/screenshot2.png)
 
+Each element references the ID of the corresponding item in the <main> section of the HTML. By clicking on navbar link, the user can instantly navigate the page.  
+
 ## Feedback
 
 Leave comments/suggestions on the slack channel! 
