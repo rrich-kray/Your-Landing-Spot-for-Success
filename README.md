@@ -28,6 +28,12 @@ And learn about the benefits we provide in the following section;
 
 ![Horiseon services offered](Develop/assets/images/screenshot4.png)
 
+## Deployed Application
+
+Please find the link to the deployed application below:
+
+https://rrich-kray.github.io/Your-Landing-Spot-for-Success/
+
 ## Feedback
 
 Leave comments/suggestions on the slack channel! 
