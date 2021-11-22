@@ -1,4 +1,0 @@
-Accessibility improvements:
-- Changes header div to a semantic header element, and corrected associated css selectors
-- changed divs containing search engine optimization, online reputation management, etc. to section elements, and corrected associated css elements
-- Added alts to images 
