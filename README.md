@@ -16,7 +16,7 @@ The landing page for Horiseon provides a clean and effective user experience. By
 
 The website provides three links within the navbar, as shown below:
 
-![Horiseon navigation links](assets/images/screenshot2.png)
+![Horiseon navigation links](Develop/assets/images/screenshot2.png)
 
 Each element references the ID of the corresponding item in the "main" section of the HTML. By clicking on navbar link, the user can instantly navigate the page.  
 
